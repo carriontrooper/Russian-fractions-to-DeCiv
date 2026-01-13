@@ -55,7 +55,7 @@
 		"production": -1,
 		"happiness": -1,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"Provides [1] [Slaves]",
 			"[+5]% Production when constructing [Civilian] units [in this city]",
 			"Destroyed when the city is captured",
@@ -166,7 +166,7 @@
 		"culture": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"[-25]% enemy spy effectiveness [in this city]",
 			"Destroyed when the city is captured",
 			"Only available <when espionage is enabled>"
